@@ -47,6 +47,7 @@ set(SOURCES
     TextDirection.cpp
     TextLayout.cpp
     Triangle.cpp
+    WebPLoader.cpp
     WindowTheme.cpp
 )
 
